@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tickets-454716",
+  "private_key_id": "2891c097b536d090cf5dab25581b8a26ff53bad8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFLrUnkbZjUqI5\n9Wnzb8g2XWfTSBIyk0xP1gB/QIEFOIc15WcwmxpDHl1CZh75Pzfftr0sU2x6eEGk\n2vgv38fZKDv26SgFzB2zJ1wfxdRgeoofXQVEd7k3kxUAwSEVsLv5gAO0BEydqjFl\nqDpFFIO0pBLs1MTTLm1IhHL0mo6U0ZcijMV2+fuNKS+zUx0hjin2LIRbDdcn5vDk\nEXmYsgBg04E6sDXr+ztagd97a9qDQwS/jVIIotTiWZ6+folJdm2WkUWr5GVImoFV\np5jV4W5N/G9q4R3jfaQYzWPAHwl4xTWijO0lyppHinMtODhmjBf8p+3js3YIh4zW\nURN3uH0tAgMBAAECggEAA6rpvbGtJc3MrK1O6jNDExfLrZdil0Q8ICQH4FYP0EwL\n38nDkJjh9Sukam7B1rsBTAz3GdL3apPADNPx19oeuoBQFTijAPCaANITmZexapX8\n6bZuOabMcCcxNdFhzyh5Zpul9fw6fJhE0PI/GzfVd0+x9mvCuXbcm4OzK6+QRV5U\nRsXaYgEqFztP80SaErlu8DDXUyGI69IhDzXSAMEP2lrn3QatoxTEeHlOUlBlrliO\nRfzmRWTpFdPzewpMd53cHI+lCXmilcfg+fPtOnFpMuPm0GVi16aVeyU8rhmpLIhE\nB7jrsDERmJS0965o91IwBmNZR4x61Ra3x75tbSz3lQKBgQDqTioYkX8If+IApeMQ\ntadAOQkLTX3LHUXj39JZeQfs+q3jPg0OoFiUVvuTSQqnADCOUo7C65uaqNkRh8jn\n1L4MSYu3bxS7EmAitNcW0+nyQ5nZdbshdcoAOwXej/HVHCqmXPMPSpjNOA0n7MK+\nBCur3BloO/asP/X+2l2nAdDx3wKBgQDXcJq3Abdpac6Z0yZDlcwaVGQMEIhECf0P\nQWJcsgbFm7/tYmCm0ippbkF1OmtIW1Sx9DQOhtWQl8nHmQooTIo8QEMsI3gULbry\nFtwFL2d+f1ataoA9UDYHDApW6mHb6GB6sY463cQC5WyWkC7Hg4aSOk8rX4uQ9jwb\n2k5SSvrqcwKBgDoOmjGyQ6bogSil8iieyk2IlGwfjG761umK+UVATy1yRAoNwxB/\nvNMs5nNtYt1Ul7N8U3GLDeh5tCe63JZNSbYjtyIBvUJJYFbZNn6qjcqA46tVl8PH\nuwDpnx+xzTuAGjVUzMlaM5iOLfxZlzucLvILvKPuT8YIpzy6AQCz24FDAoGACC91\nEWL1TwIAIYQOPh8g5Bc0veia5MrkXIIFdLQm4bcrMZ+9QFlX1y2jOwr/LH6b1y8K\nE0s4Lgg2WGkOI73UurlOVAz88PdT1QLdVS0Z54p7Bpe3S50SkG36rpa1JR/NGpxI\nZSAr5FhHKelMfbQXltK0U1eL+/P/EKfYtfO3WNUCgYBNmryss0BulZJac6WPkTjm\n/bX/JYhxJMDfSTRnBahiuOYArVsoTpjmGK9b4JULTlXFuZtp4PDj2GfY+HBE9tE+\nVeUUf8pJzY7FHsGfkhA1JRGtZeHEw8yR185PsdHxEoCXhiLGUGQyCD/G5aF4OjiD\ngsA+EEAdRr6/mAXudGPftA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "soporte-susaeta2025@tickets-454716.iam.gserviceaccount.com",
+  "client_id": "104711065315466418755",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soporte-susaeta2025%40tickets-454716.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
